@@ -5,3 +5,4 @@ for i in range(0, len(spisok), 2):
         break
     spisok[i], spisok[i+1] = spisok[i+1], spisok[i]
 print(spisok)
+#
