@@ -14,8 +14,3 @@ elif month<=8:
     print(month_dict.get(3))
 elif month<=11:
     print(month_dict.get(4))
-<<<<<<< HEAD
-#
-=======
->>>>>>> master
-#
