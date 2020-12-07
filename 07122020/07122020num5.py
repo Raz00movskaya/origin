@@ -8,7 +8,7 @@ def my_sum ():
             if a[i] == '#' or a[i] == '#':
                 exit = True
                 break
-            else:
+            else:#
                 res = res + int(a[i])
         result = result + res
         print('Сумма на данный момент:', result)
