@@ -9,6 +9,4 @@ try:
 except ZeroDivisionError:
     m = 0
     b = 0#
-finally:
-    print('Деление на ноль')
 
