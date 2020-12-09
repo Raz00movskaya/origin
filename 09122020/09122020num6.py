@@ -8,7 +8,7 @@ def firstfunc(a, b):
 from itertools import cycle
 def secondfunc(spisok, d):
     i = 0
-    iter = cycle(spisok)
+    iter = cycle(spisok)#
     while i < d:
         print(next(iter))
         i+=1

@@ -7,7 +7,7 @@ def func():
 
 generator = func()
 x = 0
-for i in generator:
+for i in generator:#
     if x < 15:
         print(i)
         x += 1

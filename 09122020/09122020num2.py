@@ -3,3 +3,4 @@ print("Список:", spisok)
 spisok1 = [i for num, i in enumerate(spisok) if spisok[num - 1] < spisok[num]]
 print("Новый список:", spisok1)
 
+#

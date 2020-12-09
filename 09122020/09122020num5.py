@@ -7,4 +7,4 @@ spisok = [i for i in range(99, 1001) if i % 2 == 0]
 spisok1 = reduce(my_func, [i for i in range(99, 1001) if i % 2 == 0])
 
 print("Список:",spisok)
-print("Сумма элементов:",spisok1)
+print("Сумма элементов:",spisok1)#
