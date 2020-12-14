@@ -3,4 +3,4 @@ with open('textnum5', 'w+') as text:
     text.writelines(line)
     nums = line.split()
 
-print(sum(map(int, nums)))
+print(sum(map(int, nums)))#

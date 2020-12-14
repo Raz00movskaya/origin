@@ -8,4 +8,4 @@ with open('textnum4', 'r') as text1:
     print(text)
 
 with open('textnum4p2.txt', 'w') as file_obj_2:
-    file_obj_2.writelines(text)
+    file_obj_2.writelines(text)#

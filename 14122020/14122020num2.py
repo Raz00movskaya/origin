@@ -8,4 +8,4 @@ text = open('textnum2', 'r')
 content = text.read()
 content = content.split(' ')
 print('Количество слов:',len(content))
-text.close()
+text.close()#

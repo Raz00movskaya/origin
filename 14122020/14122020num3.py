@@ -10,4 +10,4 @@ with open('textnum3', 'r') as text:
         if int(i[1]) < 20000:
            b.append(i[0])
         a.append(i[1])
-print('Оклад меньше 20000:',b,'средний оклад:', sum(map(int, a)) / len(a))
+print('Оклад меньше 20000:',b,'средний оклад:', sum(map(int, a)) / len(a))#

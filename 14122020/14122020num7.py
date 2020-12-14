@@ -22,4 +22,4 @@ with open('textnum7', 'r') as file:
 with open('textnum7.json', 'w') as write_js:
     json.dump(a, write_js)
     js_str = json.dumps(a)
-    print('Создан файл с расширением json со следующим содержимым:',js_str)
+    print('Создан файл с расширением json со следующим содержимым:',js_str)#
