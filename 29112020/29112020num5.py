@@ -13,3 +13,4 @@ while menu != 10101:
             rating.insert(i + 1, menu)
     print(rating)
     menu = int(input("Введите число "))
+#

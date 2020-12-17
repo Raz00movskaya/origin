@@ -18,3 +18,4 @@ for j in range(0,i):
 
 slovar = {'Название':[nazvan],'Цена':[cen],'Количество':[kolv],'Единица измерения':[ed]}
 print(slovar)
+#
