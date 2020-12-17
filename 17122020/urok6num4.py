@@ -51,4 +51,4 @@ oka = TownCar( 30,'White', 'Oka')
 lada = WorkCar( 70,'Rose','Lada', False)
 
 print(oka.show_speed())
-print(lada.show_speed())
+print(lada.show_speed())#

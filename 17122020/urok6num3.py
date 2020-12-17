@@ -17,4 +17,4 @@ class Position(Worker):
 
 a = Position('Polina', 'Darmogray', 'Student', 60000, 20000)
 print(a.get_full_name())
-print(a.get_total_income())
+print(a.get_total_income())#

@@ -16,4 +16,4 @@ class TrafficLight:
             i += 1
 
 TrafficLight = TrafficLight()
-TrafficLight.running()
+TrafficLight.running()#
