@@ -7,7 +7,7 @@ class Division:
     @staticmethod
     def divide_by_null(a, b):
         try:
-            return (a / b)
+            return (a / b)#
         except:
             return 'Деление на ноль недопустимо'
 

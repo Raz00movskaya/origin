@@ -3,7 +3,7 @@ class Proverka:
         self.my_list = []
 
     def my_input(self):
-
+#
         while True:
             try:
                 val = int(input('Введите значения и нажимайте Enter - '))

@@ -1,5 +1,5 @@
 class Sklad:
-
+#
     def __init__(self, name, price, quantity, number_of_iterations, *args):
         self.name = name
         self.price = price

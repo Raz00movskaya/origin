@@ -34,4 +34,4 @@ class Date:
 today = Date('18 - 10 - 2001')
 print(today)
 print(today.valid(18, 10, 2001))
-print(today.extract('18 - 10 - 2001'))
+print(today.extract('18 - 10 - 2001'))#
